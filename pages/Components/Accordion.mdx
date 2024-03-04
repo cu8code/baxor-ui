@@ -1,0 +1,53 @@
+# Accordion
+
+*A vertically stacked set of interactive headings that each reveal a section of content*
+
+import MyApp from "../../components/counters"
+
+### Type 1
+Vertical Component
+#### Component
+<MyApp />
+
+#### Code
+```jsx
+function MyButton() {
+  const [count, setCount] = useState(0)
+
+  function handleClick() {
+    setCount(count + 1)
+  }
+
+  return (
+    <div>
+      <button onClick={handleClick} className={styles.counter}>
+        Clicked {count} times
+      </button>
+    </div>
+  )
+}
+```
+
+### Type 2
+Horizontal Component
+#### Component
+<MyApp />
+
+#### Code
+```jsx
+function MyButton() {
+  const [count, setCount] = useState(0)
+
+  function handleClick() {
+    setCount(count + 1)
+  }
+
+  return (
+    <div>
+      <button onClick={handleClick} className={styles.counter}>
+        Clicked {count} times
+      </button>
+    </div>
+  )
+}
+```
