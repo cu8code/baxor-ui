@@ -1,23 +1,3 @@
-# Nextra Docs Template 
+# Asansol/UI
 
-This is a template for creating documentation with [Nextra](https://nextra.site).
-
-[**Live Demo →**](https://nextra-docs-template.vercel.app)
-
-[![](.github/screenshot.png)](https://nextra-docs-template.vercel.app)
-
-## Quick Start
-
-Click the button to clone this repository and deploy it on Vercel:
-
-[![](https://vercel.com/button)](https://vercel.com/new/clone?s=https%3A%2F%2Fgithub.com%2Fshuding%2Fnextra-docs-template&showOptionalTeamCreation=false)
-
-## Local Development
-
-First, run `pnpm i` to install the dependencies.
-
-Then, run `pnpm dev` to start the development server and visit localhost:3000.
-
-## License
-
-This project is licensed under the MIT License.
+isn't your typical UI library. It's more like **ui.shadcn.com**, a collection of commonly used, well-designed components that you can easily incorporate into your project. The goal is simplicity, with clear explanations and tutorials on building these components. You'll find example code and ready-to-use components that you can copy and paste directly into your project. While we try to minimize the use of external JavaScript libraries and tools, sometimes it's just too challenging to avoid using pre-built solutions. 🚀✨
