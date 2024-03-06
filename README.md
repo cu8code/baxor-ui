@@ -1,3 +1,3 @@
-# Baxor/UI
+# Baxor-UI
 
 isn't your typical UI library. It's more like **ui.shadcn.com**, a collection of commonly used, well-designed components that you can easily incorporate into your project. The goal is simplicity, with clear explanations and tutorials on building these components. You'll find example code and ready-to-use components that you can copy and paste directly into your project. While we try to minimize the use of external JavaScript libraries and tools, sometimes it's just too challenging to avoid using pre-built solutions. 🚀✨
